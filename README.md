@@ -1,2 +1,4 @@
 # Medical-Clinic-System
 This medical clinic system was created and worked on over the second half of my intro to software engineering course and done as a paired programming project.
+This desktop clinic system was meant for a single doctor to use to handle patients information and record notes on their conditions through setting up appointments. 
+I handled doing CRUD operations, persistence and GUI windows using PyQT on the Patient object side, while my partner did the same but on the Note side of things. Currently, the update feature in the PyQT GUI is not working and possibly the delete function as well. I do not plan on doing more work for this project as I am thinking of implementing the same system but for movies so that I could refine my codes, specifically the PyQT GUI section, and to add some sorting methods to practice algorithms as well.
